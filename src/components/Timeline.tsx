@@ -7,7 +7,7 @@ const events = [
   { time: '08:00 AM', title: 'Wedding Ceremony', icon: Music, desc: 'The sacred exchange of vows at the church' },
   { time: '11:27 AM', title: 'Poruwa Ceremony', icon: Heart, desc: 'Traditional Poruwa Ceremony at Senuri Grand Castello' },
   { time: '12:30 PM', title: 'Reception Begins', icon: PartyPopper, desc: 'Welcome to Senuri Grand Castello, Divulapitiya' },
-  { time: '01:30 PM', title: 'Wedding Feast', icon: Utensils, desc: 'A grand celebratory dinner' },
+  { time: '01:30 PM', title: 'Wedding Feast', icon: Utensils, desc: 'A grand celebratory lunch' },
 ];
 
 export const Timeline: React.FC = () => {

@@ -19,7 +19,7 @@ export const Hero: React.FC = () => {
         style={{ y: y1, scale }}
       >
         <img
-          src="/2.jpg"
+          src="/4.jpg"
           alt="Dinethri and Pasindu"
           className="w-full h-full object-cover opacity-90 object-[75%_20%] sm:object-[center_20%]"
         />
