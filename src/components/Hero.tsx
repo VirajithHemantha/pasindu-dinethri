@@ -21,8 +21,7 @@ export const Hero: React.FC = () => {
         <img
           src="/4.jpg"
           alt="Dinethri and Pasindu"
-          className="w-full h-full object-cover opacity-90"
-          style={{ objectPosition: 'center 20%' }}
+          className="w-full h-full object-cover opacity-90 object-[75%_20%] sm:object-[center_20%]"
         />
         {/* Soft elegant gradient overlays to ensure text readability & premium feel */}
         <div className="absolute inset-0 bg-gradient-to-t from-brand-ivory via-brand-ivory/30 to-brand-ivory/50" />
